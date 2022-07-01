@@ -1,0 +1,1 @@
+? False ? print 'Hello' : print 'Go To Indua'
